@@ -18,6 +18,7 @@
 * Create list of all icons, and start contacting "icon-makers"
 
 ## Droid / Cake / other
+* .
 
 ## Marcel
 * Web tool
