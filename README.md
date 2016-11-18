@@ -12,10 +12,12 @@
 * Swarm connection to API
 * On/off plugins from API
 
-## Vikthor / Cake / other
+## Vikthor
 * Start filling database with plugin category data
 * Commission tutorials
 * Create list of all icons, and start contacting "icon-makers"
+
+## Droid / Cake / other
 
 ## Marcel
 * Web tool
