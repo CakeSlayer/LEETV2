@@ -17,7 +17,12 @@
 * Commission tutorials
 * Create list of all icons, and start contacting "icon-makers"
 
-## Droid / Cake / other
+##Cake
+* Plugin category in database - Finished
+* Map information in database
+* Help wireframe apps
+
+## Droid / other
 * .
 
 ## Marcel
