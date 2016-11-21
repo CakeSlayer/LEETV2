@@ -22,6 +22,7 @@
 * Map information in database
 * Help wireframe apps
 * Web interface
+* Manage Plugin/Map Repo
 
 ## Droid / other
 * .
