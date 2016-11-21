@@ -21,12 +21,13 @@
 * Plugin category in database - Finished
 * Map information in database
 * Help wireframe apps
+* Web interface
 
 ## Droid / other
 * .
 
 ## Marcel
-* Web tool
+* Web interface
 
 ## Unassigned
 * Design for apps
